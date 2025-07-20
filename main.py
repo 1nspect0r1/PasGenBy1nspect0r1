@@ -66,7 +66,7 @@ var = IntVar()
 var1 = IntVar()
 
 # Title of your GUI window
-root.title("Генератор случайных паролей")
+root.title("Генератор случайных паролей 1nspect0r1")
 root.resizable(width=False, height=False)
 
 # create label and entry to show
